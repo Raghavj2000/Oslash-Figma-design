@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Raghavj2000/Oslash-Figma-design/static/css/main.d8d008cb.css",
+    "main.js": "/Raghavj2000/Oslash-Figma-design/static/js/main.6e065fb2.js",
+    "static/js/787.27f7b76e.chunk.js": "/Raghavj2000/Oslash-Figma-design/static/js/787.27f7b76e.chunk.js",
+    "index.html": "/Raghavj2000/Oslash-Figma-design/index.html",
+    "main.d8d008cb.css.map": "/Raghavj2000/Oslash-Figma-design/static/css/main.d8d008cb.css.map",
+    "main.6e065fb2.js.map": "/Raghavj2000/Oslash-Figma-design/static/js/main.6e065fb2.js.map",
+    "787.27f7b76e.chunk.js.map": "/Raghavj2000/Oslash-Figma-design/static/js/787.27f7b76e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8d008cb.css",
+    "static/js/main.6e065fb2.js"
+  ]
+}
